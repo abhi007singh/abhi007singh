@@ -14,8 +14,7 @@
         ==> DM on Instagram: @itsmeabhimanyu
         
 - 🗃️ Projects (Hosted):
-        ==> TODO App: https://desolate-lake-96448.herokuapp.com/
-        ==> Newsletter Sign Up App: https://floating-mesa-89913.herokuapp.com/
+        ==> It was on Heroku and it is no more free tier, so wait
 
 <!---
 abhi007singh/abhi007singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
